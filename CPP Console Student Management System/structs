@@ -1,0 +1,30 @@
+#ifndef STRUCTS_INCLUDED
+#define STRUCTS_INCLUDED
+
+struct date{
+    int day;
+    int month;
+    int year;
+};
+
+struct student{
+    std::string fname;
+    std::string secname;
+    std::string matricule;
+    date birthdate;
+    char sex;
+    int level;
+    std::string classe;
+    std::string option;
+    int hours_of_absences;
+    char conduct;
+};
+
+struct course{
+    std::string name;
+    int coef;
+    int semester;
+    int level;
+};
+
+#endif // STRUCT_INCLUDED

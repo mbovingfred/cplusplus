@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1452714588 source:c:\disks\c_c++ programs\student management\account.cpp
+	<iostream>
+	"account.h"
+	<string>
+	<sstream>
+	<fstream>
+
+1452713088 c:\disks\c_c++ programs\student management\account.h
+
+1452734828 source:c:\disks\c_c++ programs\student management\course.cpp
+	<iostream>
+	"course.h"
+	<fstream>
+	"structs"
+
+1452713415 c:\disks\c_c++ programs\student management\course.h
+
+1452736876 c:\disks\c_c++ programs\student management\structs
+
+1452833576 source:c:\disks\c_c++ programs\student management\files.cpp
+	<iostream>
+	"files.h"
+	<fstream>
+	"functions.h"
+	<vector>
+
+1452864271 c:\disks\c_c++ programs\student management\files.h
+	<string>
+
+1452860306 c:\disks\c_c++ programs\student management\functions.h
+
+1452884962 source:c:\disks\c_c++ programs\student management\functions.cpp
+	<iostream>
+	"structs.h"
+	<fstream>
+	<string>
+	<stdlib.h>
+	"functions.h"
+	<vector>
+	"students.h"
+
+1452714851 c:\disks\c_c++ programs\student management\structs.h
+	<string.h>
+
+1452897740 source:c:\disks\c_c++ programs\student management\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<conio.h>
+	<sstream>
+	<fstream>
+	"account.h"
+	"course.h"
+	"files.h"
+	"students.h"
+	"functions.h"
+	"marks.h"
+
+1452738343 c:\disks\c_c++ programs\student management\students.h
+	"structs"
+	<vector>
+
+1452854731 source:c:\disks\c_c++ programs\student management\students.cpp
+	<iostream>
+	"students.h"
+	<fstream>
+	<vector>
+	"structs"
+	"functions.h"
+
+1452894960 c:\disks\c_c++ programs\student management\marks.h
+	<string>
+	<vector>
+
+1452895784 source:c:\disks\c_c++ programs\student management\marks.cpp
+	"files.h"
+	"marks.h"
+	"functions.h"
+	<string>
+	<iostream>
+	<fstream>
+

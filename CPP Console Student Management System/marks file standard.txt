@@ -1,0 +1,8 @@
+mark_id
+student's name
+matricule
+course name
+coef
+mark obtained
+classname
+period
